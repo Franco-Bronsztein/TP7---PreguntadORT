@@ -1,0 +1,78 @@
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.csproj.AssemblyReference.cache
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.AssemblyInfoInputs.cache
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.AssemblyInfo.cs
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.csproj.CoreCompileInputs.cache
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.MvcApplicationPartsAssemblyInfo.cache
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.RazorAssemblyInfo.cache
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.RazorAssemblyInfo.cs
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\appsettings.Development.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\appsettings.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.staticwebassets.runtime.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.exe
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.deps.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.runtimeconfig.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.pdb
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\Dapper.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\System.Data.SqlClient.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.TP7-PreguntadORT.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.build.TP7-PreguntadORT.props
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP7-PreguntadORT.props
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP7-PreguntadORT.props
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets.pack.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets.build.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets.development.json
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\scopedcss\bundle\TP7-PreguntadORT.styles.css
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\scopedcss\projectbundle\TP7-PreguntadORT.bundle.scp.css
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.csproj.CopyComplete
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\refint\TP7-PreguntadORT.dll
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.pdb
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.genruntimeconfig.cache
+Z:\ORT 2023\Programacion\TP7-PreguntadORT\obj\Debug\net7.0\ref\TP7-PreguntadORT.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\appsettings.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.staticwebassets.runtime.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.exe
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.deps.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\TP7-PreguntadORT.pdb
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\Dapper.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.RazorAssemblyInfo.cache
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.RazorAssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.TP7-PreguntadORT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.build.TP7-PreguntadORT.props
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP7-PreguntadORT.props
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP7-PreguntadORT.props
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\scopedcss\bundle\TP7-PreguntadORT.styles.css
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\scopedcss\projectbundle\TP7-PreguntadORT.bundle.scp.css
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.csproj.CopyComplete
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\refint\TP7-PreguntadORT.dll
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.pdb
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\TP7-PreguntadORT.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\TP7-PreguntadORT\obj\Debug\net7.0\ref\TP7-PreguntadORT.dll

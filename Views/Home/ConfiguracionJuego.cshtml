@@ -1,0 +1,38 @@
+    <h2 class="CJ">
+        Configurador De Juego
+    </h2>
+    <section class="formularioCJ">
+        <form id="form1" action='@Url.Action("Comenzar")' method="get">
+            <div class="campos">
+            <div class="campoForm">
+                <label for="Dificultad">Dificultad</label>
+                <select id="Dificultad" name="dificultad">
+                    <option value="-1">Todo</option>
+                    @foreach (Dificultad item in ViewBag.dificultades)
+                    {
+                        <option value="@item.IdDificultad">@item.Nombre</option>
+                    }
+                </select>
+            </div>
+
+            <div class="campoForm">
+                <label for="Categoria">Categoria:</label>
+                <select id="Categoria" name="categoria">
+                    
+                    <option value="-1">Todo</option>
+                    @foreach (Categoria item in ViewBag.categorias)
+                    {
+                        <option value="@item.Id_Categoria">@item.Nombre</option>
+                    }
+                    
+                </select>
+            </div>
+            
+            <div class="campoFormtext">
+                <label for="usuario"> Ingresa tu nombre de usuario </label>
+                <input type="text" id="textoUsuario" name="username">
+            </div>
+            </div>
+            <input type="submit" value="Enviar">
+        </form>
+    </section>

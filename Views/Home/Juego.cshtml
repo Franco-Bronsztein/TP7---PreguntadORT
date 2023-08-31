@@ -1,0 +1,31 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="Imagenes/Logo.png" alt="Logo">
+        </div>
+        <a class="jugar" href="configuracion-juego.html"> PreguntadORT </a>
+    </nav>
+
+    
+    <div class="info">
+        <h2> Puntaje </h2>
+        <h2> Nombre Usuario</h2>
+    </div>
+
+        <div class="cardDiv">
+            <h2> @ViewBag.pregunta.IdPregunta </h2>
+            <img class="imgresp" src="Imagenes/@ViewBag.Pregunta.FK_IdCategoria">
+            <p> <b> @ViewBag.pregunta.Enunciado </b> </p>
+            <form id="formResp" action='@Url.Action("Respuesta")' method="post">
+                <div>
+                    @foreach (Respuesta item in ViewBag.respuestas)
+                    {
+                        <button class="bottonResp" type="button"value="@item.IdRespuesta">@item.Contenido</button>
+                    }
+                </div>
+                <input class="submitjuego" type="submit">
+            </form>
+        </div>
+    
+</body>
